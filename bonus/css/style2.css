@@ -1,0 +1,100 @@
+body {
+    margin: auto;
+}
+
+.content {
+    padding: 10px;
+}
+
+header {
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+    background-size: 400px;
+    background-color: #4da1ff;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.logo {
+    margin-top: 50px;
+    margin-left: 10px;
+    height: 40px;
+}
+
+h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 30px;
+}
+
+h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h4 {
+    margin-top: 0px;
+    font-size: 12px;
+}
+
+.grey-word {
+    color: #858585;
+}
+
+.blue-word {
+    color: #35b4e9;
+}
+
+.yellow-marker {
+    background-color: #FFFF00;
+}
+
+.list {
+    margin-bottom: 20px;
+}
+
+.tab {
+    margin-top: 20px;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.th-exp {
+    width: 50%;
+}
+
+thead {
+    color: white;
+    background-color: #1aaae6;
+}
+
+.td-1 {
+    background-color: #b2e6f2;
+}
+
+footer {
+    padding: 10px;
+}
+
+.suggestion {
+    color: white;
+    margin-top: 10px;
+}
+
+.suggestion-1 {
+    background-image: url(../img/monitor.jpg);
+    width: 210px;
+    height: 160px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.suggestion-2 {
+    background-image: url(../img/graph.jpg);
+    width: 210px;
+    height: 160px;
+    padding: 15px;
+}
