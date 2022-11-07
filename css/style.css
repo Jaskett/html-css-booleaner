@@ -12,3 +12,27 @@ header {
     margin-left: 10px;
     height: 40px;
 }
+
+h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 30px;
+}
+
+h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h4 {
+    margin-top: 0px;
+    font-size: 12px;
+}
+
+.grey-word {
+    color: #858585;
+}
+
+.blue-word {
+    color: #35b4e9;
+}
