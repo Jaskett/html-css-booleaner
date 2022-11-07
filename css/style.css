@@ -45,6 +45,10 @@ h4 {
     color: #35b4e9;
 }
 
+.yellow-marker {
+    background-color: #FFFF00;
+}
+
 .list {
     margin-bottom: 20px;
 }
@@ -56,6 +60,10 @@ h4 {
 
 table {
     border-collapse: collapse;
+}
+
+.th-exp {
+    width: 50%;
 }
 
 thead {
