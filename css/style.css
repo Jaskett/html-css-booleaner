@@ -1,3 +1,11 @@
+body {
+    margin: auto;
+}
+
+.content {
+    padding: 10px;
+}
+
 header {
     background-image: url(../img/pattern.png);
     background-repeat: repeat-x;
@@ -35,4 +43,25 @@ h4 {
 
 .blue-word {
     color: #35b4e9;
+}
+
+.list {
+    margin-bottom: 20px;
+}
+
+.tab {
+    margin-top: 20px;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    color: white;
+}
+
+.td-1 {
+    background-color: #b2e6f2;
 }
